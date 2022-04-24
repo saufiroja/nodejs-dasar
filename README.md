@@ -2,7 +2,7 @@
 
 - Nodejs diperkenalkan pertama kali oleh Ryan Dahl pada tahun 2009
 - Nodejs merupakan teknologi yang bisa menjalankan code javascript diluar web browser yaitu bisa digunakan pada sisi server juga
-- Nodejs di buar dari V8 engine yaitu engine dari google chrome
+- Nodejs di buat dari V8 engine yaitu engine dari google chrome
 
 ## Kenapa Harus Belajar Nodejs
 
